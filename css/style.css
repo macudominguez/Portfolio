@@ -161,7 +161,7 @@ section .md {
   display: flex;
   flex-direction: column;
   align-items: center;
-  min-height: 850px;
+  padding-bottom:70px;
 }
 
 #contenido-cajas {
