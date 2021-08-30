@@ -158,10 +158,10 @@ section .md {
 .conocimientos-container {
   background-color: #f6f7fb;
   max-width: 100%;
-  min-height: 50px;
   display: flex;
   flex-direction: column;
   align-items: center;
+  min-height: 850px;
 }
 
 #contenido-cajas {
@@ -180,8 +180,9 @@ section .md {
 
 .texto-conocimientos {
   margin-top: 20px;
-  max-width: 400px;
+  max-width: 500px;
   text-align: center;
+  margin-bottom: 15px;
 }
 
 .iconosconoc {
@@ -262,9 +263,10 @@ section #iconocita {
   font-weight: 900;
 }
 
-#texto-lorem {
-  max-width: 400px;
+#text-proyects {
+  max-width: 800px;
   text-align: center;
+  margin-bottom:15px;
 }
 
 .texto-proyecto {
@@ -280,6 +282,7 @@ section #iconocita {
   flex-direction: column;
   align-items: center;
   justify-content: space-evenly;
+  margin-bottom:70px;
 }
 
 #contenido-proyectos {
